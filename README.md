@@ -105,4 +105,4 @@ To build a machine learning model that can accurately predict house prices based
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+
