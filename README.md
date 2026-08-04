@@ -1,4 +1,4 @@
-﻿# 🏠 House Price Prediction
+﻿#  House Price Prediction
 
 This project focuses on predicting house prices using machine learning techniques. It uses the California housing dataset and applies regression models to estimate house values based on different features.
 
