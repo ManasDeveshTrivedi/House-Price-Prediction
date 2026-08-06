@@ -4,7 +4,7 @@ This project focuses on predicting house prices using machine learning technique
 
 ---
 
-## 📌 Features
+## Features
 
 * Data loading using `sklearn.datasets`
 * Data preprocessing and exploration
@@ -14,7 +14,7 @@ This project focuses on predicting house prices using machine learning technique
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * NumPy
@@ -26,7 +26,7 @@ This project focuses on predicting house prices using machine learning technique
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 P1_HousePrice_Prediction/
@@ -36,7 +36,7 @@ P1_HousePrice_Prediction/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -64,7 +64,7 @@ jupyter notebook
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * California Housing Dataset (from `sklearn.datasets`)
 * Contains features like:
@@ -76,19 +76,19 @@ jupyter notebook
 
 ---
 
-## 📈 Model Used
+## Model Used
 
 * XGBoost Regressor
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To build a machine learning model that can accurately predict house prices based on given input features.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Hyperparameter tuning
 * Try different ML models
